@@ -1,21 +1,21 @@
 {
   "main": {
-    "name": "Hamid Meer",
-    "occupation": "Currently Studying",
-    "description": "I eat, sleep and breathe React",
+    "name": "Hamid Ullah",
+    "occupation": "I successfully completed my academic journey in 2024.",
+    "description": "while deeply immersed in mastering React, Angular 12+. dedicating myself to building innovative and efficient web solutions",
     "image": "hamid2.png",
-    "bio": "Hi there! I am Hamid Meer! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Results-driven Frontend Developer with over 4 years of experience specializing in React and Angular12+. Proven expertise in crafting dynamic, responsive web applications with a strong focus on delivering seamless user experiences. Proficient in modern web technologies, including HTML, CSS, JavaScript, and Tailwind CSS, with a deep understanding of state management (Redux), component-based architecture, and performance optimization. Adept at collaborating in agile environments to build scalable, high-quality solutions while staying aligned with industry best practices and emerging trends.",
     "contactmessage": "Get in touch with me ",
     "email": "hmdbngsh@gmail.com",
     "phone": "+92 3045444324",
     "address": {
-      "street": "UOP",
-      "city": "Peshawer",
+      "street": "Street 16, Sector I-10/1",
+      "city": "Islamabad",
       "state": "Pakistan",
-      "zip": ""
+      "zip": "44800"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1Hi6XqoBedv-wIZGwJ-smweSUSlYI0Wxb/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1mw7_BEVuEsMtx8yTVclfuY4hXw8xgWv0/view?usp=drive_link",
     "social": [
      
       {
@@ -54,7 +54,7 @@
       {
         "company": "Online Freelancing",
         "title": "Student",
-        "years": "Sep 2022 - Present",
+        "years": "Sep 2021 - Present",
         "description": "Cloning all the apps possible."
       }
     ],
@@ -64,8 +64,12 @@
         "level": "80%"
       },
       {
+        "name": "Angular 12+",
+        "level": "90%"
+      },
+      {
         "name": "Tailwind",
-        "level": "85%"
+        "level": "80%"
       },
       
       {
@@ -73,8 +77,12 @@
         "level": "90%"
       },
       {
+        "name": "TypeScript",
+        "level": "90%"
+      },
+      {
         "name": "NodeJS",
-        "level": "40%"
+        "level": "50%"
       },
       {
         "name": "Git",
@@ -82,7 +90,7 @@
       },
       {
         "name": "UI",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "CI/CD Pipeline",
